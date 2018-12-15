@@ -3,7 +3,9 @@
 ## A simple knockoff to the game `Knife Hit`
 ### This game is made in Unity3D using Physics 2D Engine.
 
-<img src="/Screenshots/Screenshot_20181215-131931.jpg">
+<p align="center">
+<img src="/Screenshots/Screenshot_20181215-131931.jpg" width="70%" height="70%">
+</p>
 
 #### Salient features:
 - The game has scalable levels.
