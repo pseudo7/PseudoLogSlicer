@@ -4,7 +4,7 @@
 ### This game is made in Unity3D using Physics 2D Engine.
 
 <p align="center">
-<img src="/Screenshots/Screenshot_20181215-131931.jpg" width="70%" height="70%">
+<img src="/Screenshots/Screenshot_20181215-131931.jpg" width="60%" height="60%">
 </p>
 
 #### Salient features:
