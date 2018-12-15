@@ -18,7 +18,7 @@
 
 # Screenshots
 
-<div style="text-align:center">
+<p align="center">
 <img src="/Screenshots/Screenshot_20181215-131937.jpg" width="40%" height="40%">&nbsp<img src="/Screenshots/Screenshot_20181215-131951.jpg" width="40%" height="40%">
 <img src="/Screenshots/Screenshot_20181215-132000.jpg" width="40%" height="40%">&nbsp<img src="/Screenshots/Screenshot_20181215-132019.jpg" width="40%" height="40%">
-</div>
+</p>
